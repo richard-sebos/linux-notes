@@ -3,7 +3,8 @@
 ## Config
 
 ## Network
-- [[ firewald]]
+- [firewald]
+  
 ## Security
 
 ## Terminal
@@ -14,14 +15,14 @@
 - [Suse updates](https://github.com/richard-sebos/linux-notes/blob/main/updates/suse.md)
 - [Weekly Updates](https://github.com/richard-sebos/linux-notes/blob/main/updates/Weekly_Updates.md) 
 ## Users
-- [[https://github.com/richard-sebos/linux-notes/blob/main/Users/del_user.md del user flags]]
-- [[https://github.com/richard-sebos/linux-notes/blob/main/Users/Lock_After_3_Tries.md Lock After 3 Tries]]
-- [[https://github.com/richard-sebos/linux-notes/blob/main/Users/password-generator.md password generator]]
-- [[https://github.com/richard-sebos/linux-notes/blob/main/Users/resetOnLogin.md Change password on Login]]
+- [del user flags](https://github.com/richard-sebos/linux-notes/blob/main/Users/del_user.md) 
+- [Lock After 3 Tries](https://github.com/richard-sebos/linux-notes/blob/main/Users/Lock_After_3_Tries.md) 
+- [password generator](https://github.com/richard-sebos/linux-notes/blob/main/Users/password-generator.md) 
+- [Change password on Login](https://github.com/richard-sebos/linux-notes/blob/main/Users/resetOnLogin.md) 
 ## Debugging Issues
-- [[https://github.com/richard-sebos/linux-notes/blob/main/Logs/journalctl.md journalctl]]
-- [[https://github.com/richard-sebos/linux-notes/blob/main/Logs/auditd.md auditd]]
-- [[https://github.com/richard-sebos/linux-notes/blob/main/Logs/Log-Directory.md log directories]]
+- [journalctl](https://github.com/richard-sebos/linux-notes/blob/main/Logs/journalctl.md)
+- [auditd](https://github.com/richard-sebos/linux-notes/blob/main/Logs/auditd.md)
+- [log directories](https://github.com/richard-sebos/linux-notes/blob/main/Logs/Log-Directory.md)
 
 
 
