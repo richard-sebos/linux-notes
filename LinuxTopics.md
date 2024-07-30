@@ -3,7 +3,7 @@
 ## Config
 
 ## File Systems
-- [Extend LVMs]()
+- [Extend LVMs](https://github.com/richard-sebos/linux-notes/blob/main/file_systems/extending_lvm.md)
 
 ## Network
 - [firewald]()
