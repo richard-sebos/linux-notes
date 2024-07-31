@@ -1,0 +1,5 @@
+## this tells the type if file a file is
+file archive.tgz
+
+## output
+archive.tgz: gzip compressed data, last modified: Mon Mar  4 07:39:10 2024, from Unix

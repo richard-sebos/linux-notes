@@ -1,0 +1,5 @@
+## echo out the absolue file permission
+stat --format %a date.remember
+
+## echo out information on a file
+stat date.remember

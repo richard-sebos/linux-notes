@@ -1,0 +1,4 @@
+## changes ownership at a group level
+## you would use this if you wanted to change the group 
+## without change the owner 
+chgrp <group> file/directory

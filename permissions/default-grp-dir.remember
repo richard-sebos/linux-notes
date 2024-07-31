@@ -1,0 +1,7 @@
+## Set default group on a direcotry
+sudo chgrp groupname /opt/AlphaScripts
+sudo chmod g+s  /opt/AlphaScripts
+
+## Setting Group Premission Access for default group
+sudo setfacl -d -m g:alpha-develop:rwx /opt/AlphaScripts
+sudo setfacl  -m g:alpha-develop:rwx /opt/AlphaScripts

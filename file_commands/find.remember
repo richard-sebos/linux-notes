@@ -1,0 +1,14 @@
+## find with permissions
+find / -type f -perm 0664
+find / -type f -perm /u=r
+
+## find with modifytime
+-mmin 10 # last ten minutes
+-mtime +2 -mtime -5 ## modified in the last two to five days
+
+## find with creation time
+-cmin 10 ## created in last 10 minutes
+
+## find with size
+-size +5M -size -10M ## find files sized 5 to 10 MB
+

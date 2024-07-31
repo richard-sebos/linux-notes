@@ -1,0 +1,8 @@
+The sticky bit has no effect on files. For a directory with the sticky permission, only the user owner or group owner 
+of the directory can delete or rename files within the directory. Users or groups with write access to the directory, 
+by way of user or group ownership, cannot delete or modify files in the directory. The sticky permission is useful when 
+a directory is owned by a privileged group whose members share write access to files in that directory. 
+
+The sticky permission can be set via the following chmod command (for example, for the mydir directory): 
+
+chmod +t mydir

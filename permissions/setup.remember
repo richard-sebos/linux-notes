@@ -1,0 +1,15 @@
+The setuid permission With the setuid bit set, when an executable file is launched, 
+it will run with the privileges of the file owner instead of the user who launched it. 
+For example, if the executable is owned by root and launched by a regular user, it will run with root privileges. 
+The setuid permission could pose a potential security risk when used inadequately, 
+or when vulnerabilities of the underlying process could be exploited. 
+In the file access permission field, the setuid bit could have either of the following 
+representations: 
+    s replacing the corresponding executable bit (x) (when the executable bit is present) 
+    S (the capital letter) for a non-executable file The setuid permission can be set via the following chmod command (for example, for the myscript.sh executable file): 
+        chmod u+s myscript.sh
+
+Calcatinge, Alexandru; Balog, Julian. Mastering Linux Administration: Take your sysadmin skills to 
+the next level by configuring and maintaining Linux systems (p. 266). Packt Publishing. Kindle Edition. 
+
+chmod u+s <file>
